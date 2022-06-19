@@ -1,1 +1,1 @@
-In this repo I am storing some helm charts
+In this repo I store some helm charts
